@@ -1,0 +1,19 @@
+// this is an example of the generated json file based on user's selections and answers - in a web page-
+
+[
+    {
+        "page_number": 1,
+        "rois": [
+            {"roi_coordinates": [458, 350, 83, 177], "row_col_numbers": [10, 3], "marked": false, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "v"},
+            {"roi_coordinates": [261, 71, 73, 92], "row_col_numbers": [5, 3], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates": [111, 68, 74, 96], "row_col_numbers": [5, 3], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates": [249, 192, 106, 111], "row_col_numbers": [6, 4], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates": [94, 193, 102, 111], "row_col_numbers": [6, 4], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates": [261, 347, 100, 111], "row_col_numbers": [6, 4], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates":  [91, 345, 100, 112], "row_col_numbers": [6, 4], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"},
+            {"roi_coordinates":  [283, 508, 75, 110], "row_col_numbers": [6, 3], "marked": true, "graded_by_teacher": false, "fractioned_grades": null, "direction_of_question": "h"}
+        ]
+    }
+    
+]
+
