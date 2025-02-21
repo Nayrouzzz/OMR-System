@@ -8,7 +8,7 @@ An OMR system designed to automatically grade multiple-choice exams by processin
 - Extracts Regions of Interest (ROIs) from answer sheets.
 - Detects and grades marked answers using image processing techniques.
 - Annotates the results on the PDF (correct answers in green, incorrect in red).
-- Handles anomalies like multiple answers or no answers marked.
+- Handles anomalies like multiple answers.
 - Supports both horizontal and vertical question layouts.
 
 ---
