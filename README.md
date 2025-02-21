@@ -23,8 +23,3 @@ An OMR system designed to automatically grade multiple-choice exams by processin
 3. **Output**: An annotated PDF with results and a JSON file containing scores and anomalies.
 
 ---
-
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nayrouzzz/OMR-System.git
