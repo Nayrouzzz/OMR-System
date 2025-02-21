@@ -1,4 +1,4 @@
-// this is an example of the generated json file based on user's selections and answers - in a web page-
+#// this is an example of the generated json file based on user's selections and answers - in a web page-
 // coordinated : coords for the user selection,
 //row_col_num: numbers of columns and rows in each ROI
 // marked: specifies if the ROI is a question to be graded or it's just the ID area.
